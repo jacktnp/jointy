@@ -10,7 +10,7 @@ jo!nty is a website that allowed you to create the appointments. which you can e
 
 ## Preview
 
-[![Jo!ty Preview](https://i.imgur.com/ue410YC.jpg)]
+![Jo!ty Preview](https://i.imgur.com/ue410YC.jpg)
 
 **[View Live Preview](http://jointy.azurewebsites.net/jointy/)**
 
