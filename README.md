@@ -8,6 +8,12 @@ jo!nty is a website that allowed you to create the appointments. which you can e
 *4. click 'new party' create a party by adding party name, location, date/time and details
 *5. click submit and enjoy your party!
 
+## Preview
+
+[![Jo!ty Preview](https://i.imgur.com/ue410YC.jpg)]
+
+**[View Live Preview](http://jointy.azurewebsites.net/jointy/)**
+
 ### USAGE
 After you create the apointment you can view the others. by clicking 'board' you will see the list of parties that you can join!! 
 
